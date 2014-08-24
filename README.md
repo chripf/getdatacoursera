@@ -1,4 +1,4 @@
 getdatacoursera
 ===============
 
-Course Project submission for &lt;a href="https://class.coursera.org/getdata-006">Getting and Cleaning Data&lt;/a> on coursera.
+Course Project submission for [Getting and Cleaning Data](https://class.coursera.org/getdata-006) on coursera.
